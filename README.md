@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aleksei Karpik, motion designer and CG programmer
+👋 Hi, I’m Aleksei Karpik, motion designer and CG programmer
 
 <!---
 karphub/karphub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
